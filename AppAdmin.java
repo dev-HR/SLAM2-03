@@ -14,7 +14,7 @@ public class AppAdmin {
 				new Audio( 5 , "Allemand" , 33 ) ,
 				new Audio( 6 , "Allemand" , 10 ) ,
 				new Audio( 7 , "Anglais" , 15 ) ,
-				new Audio( 8 , "Français" , 20 ) ,
+				new Audio( 8 , "Français" , 20 )
 				
 		} ;
 		
